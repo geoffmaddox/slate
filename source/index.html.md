@@ -236,4 +236,3 @@ This endpoint deletes a specific kitten.
 Parameter | Description
 --------- | -----------
 ID | The ID of the kitten to delete
-
